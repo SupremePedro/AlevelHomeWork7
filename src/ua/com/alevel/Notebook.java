@@ -1,6 +1,6 @@
 package ua.com.alevel;
 
-public class Notebook {//верисия производитель
+public class Notebook extends Computer {//верисия производитель
     private String model;
     private double plasticConsumption;
     private double cordLength;

@@ -1,6 +1,6 @@
 package ua.com.alevel;
 
-public class Notebook {//верисия маркетинг
+public class Notebook extends Computer {//верисия маркетинг
    private String name;
    private double priceUSD;
    private double weightKG;
